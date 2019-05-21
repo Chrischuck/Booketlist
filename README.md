@@ -1,4 +1,8 @@
-# Booklist - 2019
+# Chris's Booklist
+
+This is a a list of non-programming books to help me expand weak areas of my knowledge, grow myself as a person, or delve into something new.
+
+## Booklist - 2019
 
 - [ ] Cannery Row - John Steinbeck
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win - Jocko Willink
