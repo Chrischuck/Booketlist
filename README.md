@@ -1,4 +1,4 @@
-# Chris's Booklist
+# Chris's Booketlist
 
 This is a list of non-programming books to help me expand weak areas of my knowledge, grow myself as a person, and/or delve into something new.
 
