@@ -7,7 +7,7 @@ Recommendations welcome!
 ## Booklist - 2019
 
 - [x] Cannery Row - John Steinbeck
-- [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win - Jocko Willink & Leif Babin
+- [x] Extreme Ownership: How U.S. Navy SEALs Lead and Win - Jocko Willink & Leif Babin
 - [ ] The Origins of Political Order - Francis Fukuyama
 - [ ] War and Peace - Leo Tolstoy
 - [ ] Meditations - Marcus Aurelius
