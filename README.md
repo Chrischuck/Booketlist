@@ -10,7 +10,7 @@ Recommendations welcome!
 - [x] Extreme Ownership: How U.S. Navy SEALs Lead and Win - Jocko Willink & Leif Babin
 - [ ] The Origins of Political Order - Francis Fukuyama
 - [ ] War and Peace - Leo Tolstoy
-- [ ] Meditations - Marcus Aurelius
+- [x] Meditations - Marcus Aurelius
 - [ ] A Farewell to Arms - Ernest Hemingway
 - [ ] Why Nations Fail: The Origins of Power, Prosperity, and Povert - Daron Acemoglu & James A. Robinson
 - [ ] Diplomacy - Henry Kissinger
